@@ -72,7 +72,7 @@ exec gdb -q -ex init-peda "$@"
 #!/bin/sh
 exec gdb -q -ex init-gef "$@"
 ```
-    Then you should attribute "x" privilege to these files
+Then you should attribute "x" privilege to these files
 ```Bash
 cd /bin
 sudo chmod +x gbd-*
