@@ -56,7 +56,7 @@ document init-gef
 Initializes GEF (GDB Enhanced Features)
 end
 ```
-## The last step is make three files as following
+## The last step is making three files as following
 ### /bin/gdb-pwndbg
 ```Bash
 #!/bin/sh
