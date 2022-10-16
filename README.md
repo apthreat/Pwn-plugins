@@ -26,9 +26,9 @@ ${PYTHON} -m pip install ${INSTALLFLAGS} -Ur requirements.txt -i https://pypi.tu
 
 	Then execute the file--setup.sh by run "./setup.sh"
 
-## 2. peda installation
+### 2. peda installation
 ....
-## 3. gef installation
+### 3. gef installation
 ....
 
 ## Combine pwndbg, gef and peda by a trick
